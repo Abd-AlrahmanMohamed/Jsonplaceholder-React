@@ -1,5 +1,4 @@
 # Jsonplaceholder-React
-# JSONPlaceholder API - Sample Project
 
 ## Introduction
 This project is a simple demonstration of how to use the **JSONPlaceholder API** to retrieve and display data. JSONPlaceholder is a free online REST API that you can use for testing and prototyping.
@@ -22,7 +21,6 @@ Before you begin, ensure you have the following installed:
 - **npm** (Node package manager)
 
 ### Clone the Repository
-1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/jsonplaceholder-api-example.git
+https://github.com/Abd-AlrahmanMohamed/Jsonplaceholder-React.git
