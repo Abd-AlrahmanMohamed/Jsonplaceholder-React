@@ -1,0 +1,66 @@
+.culomn {
+  margin: 10px;
+  padding: 10px ;
+  width: 350px !important;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  text-align: left;
+}
+.head {
+  color: rgb(25, 161, 229);
+  font-size: 20px;
+}
+
+
+.pcomments {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.pcomments  .row{
+  margin-left: 30px;
+  border: 1px solid black;
+} 
+.pcomments .row h2{
+  color: rgb(16, 136, 136);
+}
+
+.pcomments .row h4{
+  color: chocolate;
+}
+
+.pcomments p {
+  margin-top: 10px;
+  padding-left: 50px;
+}
+
+.pcomments  .add-comment{
+  height: 100px ;
+}
+
+.pcomments button {
+  margin-top: 10px;
+  width: fit-content;
+  text-align: left;
+}
+
+.albumCard {
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.homeSideBar {
+  margin-top: 20px;
+  padding: 5px 10px 0 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: fit-content;
+}
+.homeSideBar h1 {
+  padding-left: 5px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+}
